@@ -24,4 +24,4 @@ DC Motor
 - Temperature-controlled fan in which the fan is automatically turned ON or OFF according to the
 temperature.
 - The microcontroller will continuously monitor the temperature and based on the
-temperature value, the microcontroller will drive the fan with certain speed by generating relative PWM signal to the DC Motor in order to rotate with varying speeds.
+temperature value, the microcontroller will drive the fan with a certain speed by generating a relative PWM signal to the DC Motor in order to rotate with varying speeds.
