@@ -2,7 +2,7 @@
 
 ## Used Hardware:
 - ATmega32 Microcontroller.
-- 2x16 LCD with 4-bit mode.
+- 2x16 LCD with 8-bit mode.
 - LM35 Temperature Sensor.
 - DC Motor and H-Bridge.
 
